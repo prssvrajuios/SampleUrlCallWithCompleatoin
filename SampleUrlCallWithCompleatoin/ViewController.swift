@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        getDataFromJson(url: "https://uatapp.orient-bank.com/wb/int/intf.jsp", parameter: "dat={\"SC\":\"ATMBRANCHLocator\",\"VER\":\"20171005\",\"Type\":\"ATM\",\"Keyword\":\"KAM\",\"SRC\":\"Android\",\"IMEI\":\"123123123234\",\"SID\":\"234234234234\"}", completion: { flatlong in
+        getDataFromJson(url: "https://uatapp.orient-bank.com/wb/int/intf.jsp", parameter: "r={\"SC\":\"ATMBRANCHLocator\",\"VER\":\"20171005\",\"Type\":\"ATM\",\"Keyword\":\"KAM\",\"SRC\":\"Android\",\"IMEI\":\"123123123234\",\"SID\":\"234234234234\"}", completion: { flatlong in
             
             
             print("----------Restult-----------")
