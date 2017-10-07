@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					99D5DCF91F87D5FB007E5267 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 2LQ7ZEBT6Z;
 						ProvisioningStyle = Automatic;
 					};
 					99D5DD0D1F87D5FE007E5267 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2LQ7ZEBT6Z;
 				INFOPLIST_FILE = SampleUrlCallWithCompleatoin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smc.learning.SampleUrlCallWithCompleatoin;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2LQ7ZEBT6Z;
 				INFOPLIST_FILE = SampleUrlCallWithCompleatoin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.smc.learning.SampleUrlCallWithCompleatoin;
